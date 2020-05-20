@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\Osman Karadeniz\\Documents\\NetBeansProjects\\MayinTarlasi\\build\\classes"
+-classpath
+"C:\\Users\\Osman Karadeniz\\Documents\\NetBeansProjects\\MayinTarlasi\\build\\classes"
+-sourcepath
+"C:\\Users\\Osman Karadeniz\\Documents\\NetBeansProjects\\MayinTarlasi\\src"
+-target
+13
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\Osman Karadeniz\\Documents\\NetBeansProjects\\MayinTarlasi\\build\\empty"
+-s
+"C:\\Users\\Osman Karadeniz\\Documents\\NetBeansProjects\\MayinTarlasi\\build\\generated-sources\\ap-source-output"
+-source
+13
+"C:\\Users\\Osman Karadeniz\\Documents\\NetBeansProjects\\MayinTarlasi\\src\\MayinTarlasi.java"
